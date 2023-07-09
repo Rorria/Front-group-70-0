@@ -1,0 +1,38 @@
+/*  copy from task 3 */
+.shape{
+    height: 50px;
+    border: solid gray;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    background-color: gray;
+}
+textarea{
+    resize: none;
+}
+fieldset{
+    border: solid black;
+    border-radius: 15%;
+    -webkit-border-radius: 15%;
+    -moz-border-radius: 15%;
+    -ms-border-radius: 15%;
+    -o-border-radius: 15%;
+}
+legend{
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+.name{
+    color: blue;
+    box-sizing: border-box;
+    border: none;
+}
+select{
+    border: solid brown;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    background: linear-gradient(#DAFFFB, #64CCC5);
+}
