@@ -1,0 +1,45 @@
+body{
+   background-image: url(../images/Cute\ cat\ wallpaper\ _\ Purple.jpeg);
+    background-size: cover;
+
+}
+fieldset{
+    padding: 20px;
+    height: 300px;
+    margin: 30px;
+    border: solid white;
+    background-color: rgba(105, 94, 94, 0.405); 
+    
+    
+}
+legend{
+    color: aliceblue;
+    font-size: 45px;
+    
+}
+input{
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid rgb(253, 250, 250);
+    background-color: transparent;
+    text-align: center;
+    font-size: 16px;
+    color:black ;
+    
+  
+}
+
+button{
+   width: 80%;
+   padding: 12px 20px;
+   margin: 8px 0;
+   box-sizing: border-box;
+   border: none;
+   border-bottom: 5px solid rgb(191, 191, 191);
+   color: brown;
+   font-weight: bold;
+   font-size: 16px;
+}
